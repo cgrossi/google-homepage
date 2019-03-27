@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 5px;
+}
+/* 
+main {
+    display: block;
+} */
